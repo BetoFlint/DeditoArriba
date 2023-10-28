@@ -1,6 +1,6 @@
 esto es una prueba de git
 
-git init
+git init --este se usa solo la primera vez con la sexta linea del github
 
 git status
 git add .
