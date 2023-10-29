@@ -6,3 +6,6 @@ git status
 git add .
 git commit -m "comentarios"
 git push
+
+
+git remote add origin https://github.com/BetoFlint/mis-cuentas.git
